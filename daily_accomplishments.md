@@ -8,7 +8,7 @@ Foundations: problem-solving + system design
 
 - Solved several LeetCode problems to sharpen algorithmic thinking and logic.
 - Started canvassing and planning for our group project Aralify (a Sololearn-like learning platform).
-- Designed and completed a **text-based system architecture** for Code Forge.
+- Designed and completed a **text-based system architecture** for Aralify.
 - Began creating the **Logical and Physical ERD (Entity Relationship Diagram)** for the system.
 
 ### Key Learnings
